@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{9988000F-D165-4035-95E0-E64BE92627C0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JWBinding_AND/Transforms/Metadata.xml">
+    <Files>
+      <File FileName="JWBinding_AND/Transforms/Metadata.xml" Line="11" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.JWBinding__AND PreferredExecutionTarget="Android.Nexus 4 (Lollipop)" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

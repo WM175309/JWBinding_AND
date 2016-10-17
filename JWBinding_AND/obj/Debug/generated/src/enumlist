@@ -1,0 +1,10 @@
+com.google.ads.interactivemedia.v3.api.AdEvent$AdEventType:Com.Google.Ads.Interactivemedia.V3.Api:AdEvent.AdEventType
+com.longtailvideo.jwplayer.configuration.Skin:Com.Longtailvideo.Jwplayer.Configuration:Skin
+com.longtailvideo.jwplayer.core.PlayerState:Com.Longtailvideo.Jwplayer.Core:PlayerState
+com.longtailvideo.jwplayer.media.adaptive.VisualQuality$Mode:Com.Longtailvideo.Jwplayer.Media.Adaptive:VisualQuality.Mode
+com.longtailvideo.jwplayer.media.adaptive.VisualQuality$Reason:Com.Longtailvideo.Jwplayer.Media.Adaptive:VisualQuality.Reason
+com.longtailvideo.jwplayer.media.ads.AdPosition:Com.Longtailvideo.Jwplayer.Media.Ads:AdPosition
+com.longtailvideo.jwplayer.media.ads.AdSource:Com.Longtailvideo.Jwplayer.Media.Ads:AdSource
+com.longtailvideo.jwplayer.media.ads.AdType:Com.Longtailvideo.Jwplayer.Media.Ads:AdType
+com.longtailvideo.jwplayer.media.captions.CaptionType:Com.Longtailvideo.Jwplayer.Media.Captions:CaptionType
+com.longtailvideo.jwplayer.media.playlists.MediaType:Com.Longtailvideo.Jwplayer.Media.Playlists:MediaType

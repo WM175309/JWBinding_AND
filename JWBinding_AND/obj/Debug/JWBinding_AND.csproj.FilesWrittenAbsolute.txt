@@ -1,0 +1,3 @@
+/Users/wmartin/Documents/Xamarin/Projects/JWBinding_AND/JWBinding_AND/obj/Debug/MonoAndroid,Version=v7.0.AssemblyAttribute.cs
+/Users/wmartin/Documents/Xamarin/Projects/JWBinding_AND/JWBinding_AND/obj/Debug/JWBinding_AND.obj.Debug.__AndroidLibraryProjects__.zip
+/Users/wmartin/Documents/Xamarin/Projects/JWBinding_AND/JWBinding_AND/obj/Debug/JWBinding_AND.Jars.exoplayer-r1.5.10.aar

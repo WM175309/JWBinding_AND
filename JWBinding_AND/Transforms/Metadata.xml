@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+	<!--
+  I added the following lines just to see if I could get the project to build. This removed 8/9 errors. 
+
+	If I try to do the same thing for the UriLoadable class, it starts breaking more things
+  -->
+	  <remove-node path="/api/package[@name='com.google.android.exoplayer']/class[@name='DummyTrackRenderer']" />
+	  <remove-node path="/api/package[@name='com.google.android.exoplayer']/class[@name='TrackRenderer']" />
+	  <remove-node path="/api/package[@name='com.google.android.exoplayer.chunk']/class[@name='Chunk']" />
+	  <remove-node path="/api/package[@name='com.google.android.exoplayer.dash.mpd']/class[@name='MediaPresentationDescription']" />
+  	  <remove-node path="/api/package[@name='com.google.android.exoplayer.extractor.mp4']/class[@name='Mp4Extractor']" />
+	  <remove-node path="/api/package[@name='com.google.ads.interactivemedia.v3.api']/class[@name='AdError']" />
+
+
+	    
+	    <!--
+		  I've tried changing the visibility on the Loadable class (see below) like many other solutions for this problem say to do but it had no effect
+
+			<attr path="/api/package[@name='com.google.android.exoplayer.upstream']/class[@name='Loader']" name="visibility">public</attr>
+		  -->
+</metadata>
